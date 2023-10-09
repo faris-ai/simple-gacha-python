@@ -1,0 +1,109 @@
+{
+    "probability": {
+        "normal": 0.8, 
+        "rare": 0.1895,
+        "epic": 0.01,
+        "legend": 0.0005
+    },
+    "items": {
+        "normal": {
+            "probability": {
+                "weapolement": 0.6,
+                "charas": 0.4
+            },
+            "weapolement": [
+                "fire stick",
+                "water stick",
+                "earth stick",
+                "wind stick",
+                "fire knife",
+                "water knife",
+                "earth knife",
+                "wind knife",
+                "fire dagger",
+                "water dagger",
+                "earth dagger",
+                "wind dagger",
+                "fire bat",
+                "water bat",
+                "earth bat",
+                "wind bat",
+                "fire pan",
+                "water pan",
+                "earth pan",
+                "wind pan"
+            ],
+            "charas": [
+                "mamals fighter",
+                "mamals tank",
+                "mamals mage",
+                "fairy fighter",
+                "fairy tank",
+                "fairy mage",
+                "dwarf fighter",
+                "dwarf tank",
+                "dwarf mage",
+                "goblin fighter",
+                "goblin tank",
+                "goblin mage"
+            ]
+        },
+        "rare": {
+            "probability": {
+                "weapolement": 0.7,
+                "charas": 0.3
+            },
+            "weapolement": [
+                "flame sword",
+                "ice sword",
+                "lightning sword",
+                "storm sword",
+                "flame spear",
+                "ice spear",
+                "lightning spear",
+                "storm spear",
+                "flame axe",
+                "ice axe",
+                "lightning axe",
+                "storm axe",
+                "flame bow",
+                "ice bow",
+                "lightning bow",
+                "storm bow"
+            ],
+            "charas": [
+                "human assassin",
+                "human healer",
+                "human witch",
+                "elf assassin",
+                "elf healer",
+                "elf witch",
+                "orc assassin",
+                "orc healer",
+                "orc witch",
+                "beast assassin",
+                "beast healer",
+                "beast witch"
+            ]
+        },
+        "epic": {
+            "charas": [
+                "dragon warrior",
+                "dragon slayer",
+                "demon king",
+                "demon one",
+                "holy angel",
+                "blessing angel",
+                "mermaid hunter",
+                "mermaid maid",
+                "blood vampire",
+                "dark vampire"
+            ]
+        },
+        "legend": {
+            "charas": [
+                "inevitable demigod"
+            ]
+        }
+    }
+}
